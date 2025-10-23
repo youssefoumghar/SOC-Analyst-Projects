@@ -1,0 +1,24 @@
+WELCOME 👋
+# 🧠 SOC Lab – Network Configuration
+
+In this project, I built a virtual network using VMware with **pfSense** as the main firewall.
+
+## 🧩 Topology
+- pfSense (router/firewall)
+- Windows 10 (client)
+- Ubuntu Server
+- Kali Linux (attacker)
+
+## 🎯 Objective
+Simulate a SOC environment for monitoring and network traffic analysis.
+
+## 🧰 Tools Used
+- pfSense
+- Wireshark
+- Wazuh
+
+## 🧾 Result
+The setup successfully allowed communication between all machines, and traffic was monitored through pfSense and Wazuh.
+
+📸 *Network Diagram*
+![Network Diagram](./Diagram.png)

@@ -1,0 +1,18 @@
+I’ve just enhanced my SOC home lab by integrating Suricata and Snort as IDS/IPS solutions to boost network visibility and intrusion prevention.
+
+What I did:
+
+Deployed Suricata for deep packet inspection (HTTP, TLS, DNS).
+
+Configured Snort in IPS mode to block malicious traffic in real time.
+
+Integrated network alerts into Wazuh and used pfSense for traffic mirroring and monitoring.
+
+Expected outcome:
+✅ Stronger detection of network-based threats.
+✅ Better correlation between host and network data.
+✅ Faster response time during incidents.
+
+Next step: fine-tuning custom Suricata and Snort rules for improved accuracy. 👨‍💻
+
+#CyberSecurity #SOC #SIEM #IDS #IPS #Suricata #Snort #Wazuh #pfSense #ThreatDetection
